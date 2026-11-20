@@ -59,7 +59,7 @@ A responsive task management dashboard built with **HTML, CSS and TypeScript**. 
 
 ```bash
 # 1. Clone and enter the project
-git clone https://github.com/<your-username>/day-5-task-manager.git
+git clone https://github.com/nischal-gupta-1/day-5-task-manager
 cd day-5-task-manager
 
 # 2. Install TypeScript
