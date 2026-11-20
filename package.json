@@ -1,0 +1,13 @@
+{
+  "name": "day-5-task-manager",
+  "version": "1.0.0",
+  "description": "Responsive task management dashboard built with HTML, CSS and TypeScript",
+  "scripts": {
+    "build": "tsc",
+    "watch": "tsc --watch"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.6.0"
+  }
+}
